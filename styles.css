@@ -1,0 +1,14 @@
+.myCls{  
+        padding: 2rem 1rem;
+        margin-bottom: 2rem;
+        background-color: #e9ecef;
+        border-radius: .3rem;
+        color: blue;
+}
+body{
+    background-image: url(https://i.pinimg.com/originals/0a/fe/39/0afe399b3f0a454632c7fea074a3f0cb.jpg);
+}
+
+.container{
+    opacity: 0.8;
+}
